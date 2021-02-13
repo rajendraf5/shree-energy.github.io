@@ -1,1 +1,1 @@
-# shree-energy.github.io/edit/main/index.md
+# shree-energy.github.io/index.php
