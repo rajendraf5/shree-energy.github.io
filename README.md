@@ -1,1 +1,1 @@
-# shree-energy.github.io/index.php
+# shree-energy.github.io/
